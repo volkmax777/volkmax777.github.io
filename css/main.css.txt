@@ -1,4 +1,0 @@
-header {
-	background: url(../img/car.jpg) no-repeat center top / cover;
-	height: 600px
-}
