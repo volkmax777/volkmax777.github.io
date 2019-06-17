@@ -48,7 +48,7 @@ nav {
 
 .menu li {
     float: left;
-    display: block;
+    display: inline;
     margin-right: 41px;
 }
 
